@@ -1,0 +1,163 @@
+[
+    {
+        "id": 1,
+        "name": "Backpack Raincover III",
+        "price": "30.00",
+        "img1": "/img/clothes/01.jpg",
+        "img2": "/img/clothes/01a.jpg",
+        "img3": "/img/clothes/3.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Deuter Backpack",
+        "price": "40.00",
+        "img1": "/img/clothes/02.jpg",
+        "img2": "/img/clothes/02a.jpg",
+        "img3": "/img/clothes/05.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Family 2+1 Camping Tent",
+        "price": "9.00",
+        "img1": "/img/clothes/04.jpg",
+        "img2": "/img/clothes/04a.jpg",
+        "img3": "/img/clothes/06a.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Runner's Handheld Bag",
+        "price": "9.00",
+        "img1": "/img/clothes/08.jpg",
+        "img2": "/img/clothes/08a.jpg",
+        "img3": "/img/clothes/10.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Runner's Handheld Bag",
+        "price": "20.00",
+        "img1": "/img/clothes/08.jpg",
+        "img2": "/img/clothes/08a.jpg",
+        "img3": "/img/clothes/1.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Multifunction Foldable Tools",
+        "price": "20.00",
+        "img1": "/img/clothes/05.jpg",
+        "img2": "/img/clothes/05a.jpg",
+        "img3": "/img/clothes/5.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Sleeping Pad Bag",
+        "price": "30.00",
+        "img1": "/img/clothes/06.jpg",
+        "img2": "/img/clothes/06a.jpg",
+        "img3": "/img/clothes/6.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Direction Hydration Vest",
+        "price": "15.00",
+        "img1": "/img/clothes/07.jpg",
+        "img2": "/img/clothes/07a.jpg",
+        "img3": "/img/clothes/7.jpg"
+    },
+    {
+        "id": 9,
+        "name": " FK Gaiter Black",
+        "price": "25.00",
+        "img1": "/img/clothes/09.jpg",
+        "img2": "/img/clothes/09.jpg",
+        "img3": "/img/clothes/8.jpg"
+    },
+    {
+        "id": 10,
+        "name": " FK Gaiter Black 3000",
+        "price": "29.00",
+        "img1": "/img/clothes/010.jpg",
+        "img2": "/img/clothes/011.jpg",
+        "img3": "/img/clothes/9.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Trekking Trail Pole",
+        "price": "19.00",
+        "img1": "/img/clothes/011.jpg",
+        "img2": "/img/clothes/016.jpg",
+        "img3": "/img/clothes/11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "rubber rope",
+        "price": "5.00",
+        "img1": "/img/clothes/012.jpg",
+        "img2": "/img/clothes/09.jpg",
+        "img3": "/img/clothes/14.jpg"
+    },
+    {
+        "id": 13,
+        "name": "First aid kit",
+        "price": "25.00",
+        "img1": "/img/clothes/013.jpg",
+        "img2": "/img/clothes/04.jpg",
+        "img3": "/img/clothes/16.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Camping chair",
+        "price": "10.00",
+        "img1": "/img/clothes/014.jpg",
+        "img2": "/img/clothes/04a.jpg",
+        "img3": "/img/clothes/18.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Cooking pot",
+        "price": "22.00",
+        "img1": "/img/clothes/016.jpg",
+        "img2": "/img/clothes/015.jpg",
+        "img3": "/img/clothes/20.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Cooking pot",
+        "price": "15.00",
+        "quantity": "70",
+        "img1": "/img/clothes/016.jpg",
+        "img2": "/img/clothes/05.jpg",
+        "img3": "/img/clothes/12.jpg"
+    },
+    {
+        "id": 17,
+        "name": "rubber rope",
+        "price": "5.00",
+        "img1": "/img/clothes/012.jpg",
+        "img2": "/img/clothes/08.jpg",
+        "img3": "/img/clothes/14.jpg"
+    },
+    {
+        "id": 18,
+        "name": "portable gas stove",
+        "price": "40.00",
+        "img1": "/img/clothes/015.jpg",
+        "img2": "/img/clothes/05a.jpg",
+        "img3": "/img/clothes/16.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Camping Chair Junior",
+        "price": "12.00",
+        "img1": "/img/clothes/03.jpg",
+        "img2": "/img/clothes/09.jpg",
+        "img3": "/img/clothes/18.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Henley T",
+        "price": "45.00",
+        "img1": "/img/clothes/010.jpg",
+        "img2": "/img/clothes/06.jpg",
+        "img3": "/img/clothes/7.jpg"
+    }
+]
